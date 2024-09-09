@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub, For Daniel
+# :wave: The Basics of GitHub, For Daniel!
 
 ## 🤓 Course overview and learning outcomes 
 
